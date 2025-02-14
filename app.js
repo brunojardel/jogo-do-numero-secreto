@@ -13,6 +13,8 @@ function exibirMensagemInicial() {
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 10');
 }
 
+// Teste atualização 14/02 6:25
+
 exibirMensagemInicial();
 
 function verificarChute() {
